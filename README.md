@@ -43,7 +43,7 @@ Check out my [**website**](https://eakarakas.com)!
 - **[FunLang](https://github.com/ekremarmagankarakas/funlang)** - Custom programming language with LLVM backend
 - **[i3ctl](https://github.com/ekremarmagankarakas/i3ctl)** - Linux CLI utility for i3 desktop automation
 - **[OktetAI](https://oktetai.com)** - AI platform integrating multiple LLM models
-- **[Linux COnfiguration](https://github.com/ekremarmagankarakas/configFiles)** - My Linux and Nvim configurations
+- **[Linux Configuration](https://github.com/ekremarmagankarakas/configFiles)** - My Linux and Nvim configurations
 
 ## Where to find me 👀
 [![My Website](https://custom-icon-badges.demolab.com/badge/-My%20Website-purple?style=for-the-badge&logoColor=white&logo=globe)](https://eakarakas.com)
