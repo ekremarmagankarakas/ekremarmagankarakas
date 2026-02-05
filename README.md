@@ -1,16 +1,16 @@
-# Hello Fellow Devs 👾
+# Hello Fellow Devs
 
 I'm Ekrem, a **Software Engineer** currently working at **NExT Consulting** and a Computer Science student in the **Honors Program** at [**Northeastern University**](https://www.northeastern.edu/), graduating May 2026. Please find me on [**LinkedIn**](https://www.linkedin.com/in/ekrem-armagan-karakas) for a more detailed description of my work experience and education. You can get in touch with me by email at [**ekremarmagankarakas@gmail.com**](mailto:ekremarmagankarakas@gmail.com).
 
 Check out my [**website**](https://eakarakas.com)!
 
-## What I'm working on right now 🎯
+## What I'm working on right now
 - Building a containerized Warehouse Management System at NExT Consulting
 - Architecting production-grade AWS infrastructure with Terraform
 - Taking courses in Machine Learning and AI
 - Developing full-stack applications with FastAPI and React
 
-## Technologies I love ❤️
+## Technologies I love
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
@@ -20,7 +20,7 @@ Check out my [**website**](https://eakarakas.com)!
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
 
-## Technologies I know 🚀
+## Technologies I know
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -39,7 +39,7 @@ Check out my [**website**](https://eakarakas.com)!
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-## Featured Projects 🚀
+## Featured Projects
 - **[FunLang](https://github.com/ekremarmagankarakas/funlang)** - Custom programming language with LLVM backend
 - **[i3ctl](https://github.com/ekremarmagankarakas/i3ctl)** - Linux CLI utility for i3 desktop automation
 - **[OktetAI](https://oktetai.com)** - AI platform integrating multiple LLM models
