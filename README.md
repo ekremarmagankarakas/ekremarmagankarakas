@@ -39,11 +39,6 @@ Check out my [**website**](https://eakarakas.com)!
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-## Featured Projects
-- **[FunLang](https://github.com/ekremarmagankarakas/funlang)** - Custom programming language with LLVM backend
-- **[i3ctl](https://github.com/ekremarmagankarakas/i3ctl)** - Linux CLI utility for i3 desktop automation
-- **[Linux Configuration](https://github.com/ekremarmagankarakas/configFiles)** - My Linux and Nvim configurations
-
 ## Where to find me 👀
 [![My Website](https://custom-icon-badges.demolab.com/badge/-My%20Website-purple?style=for-the-badge&logoColor=white&logo=globe)](https://eakarakas.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekrem-armagan-karakas)
