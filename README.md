@@ -42,7 +42,6 @@ Check out my [**website**](https://eakarakas.com)!
 ## Featured Projects
 - **[FunLang](https://github.com/ekremarmagankarakas/funlang)** - Custom programming language with LLVM backend
 - **[i3ctl](https://github.com/ekremarmagankarakas/i3ctl)** - Linux CLI utility for i3 desktop automation
-- **[OktetAI](https://oktetai.com)** - AI platform integrating multiple LLM models
 - **[Linux Configuration](https://github.com/ekremarmagankarakas/configFiles)** - My Linux and Nvim configurations
 
 ## Where to find me 👀
